@@ -11,7 +11,7 @@ namespace SistemaInventarios_HCA
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
-            var prueba = 0;
+            var prueba_new = 0;
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
